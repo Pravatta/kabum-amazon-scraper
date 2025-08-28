@@ -10,6 +10,7 @@ Aplicação em **Python + Streamlit** para praticar **Web Scraping** e consumo d
 Você digita o nome de um produto e o app mostra, lado a lado, resultados da KaBuM e da Amazon com preço, imagem e link.
 
 > ⚠️ Este é um **MVP acadêmico**, feito em pouco tempo, então ainda pode conter bugs, principalmente no scraping da Amazon.
+> (Os dados da Amazon são obtidos por meio de scraping e podem não estar sempre disponíveis devido a políticas da empresa.)
 
 ---
 
