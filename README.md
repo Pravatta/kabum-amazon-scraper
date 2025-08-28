@@ -13,6 +13,9 @@ Você digita o nome de um produto e o app mostra, lado a lado, resultados da KaB
 
 ---
 
+<img width="1365" height="564" alt="screenshot" src="https://github.com/user-attachments/assets/a327e2de-de86-4f81-8ceb-ff3f3adb8045" />
+
+
 ## ✨ Funcionalidades
 - Busca na **KaBuM** via API pública.
 - Busca na **Amazon** via scraping com BeautifulSoup.
